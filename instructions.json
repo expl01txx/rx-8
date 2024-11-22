@@ -1,0 +1,1 @@
+[{"Mov":{"dest":0,"source":1}},{"Mov":{"dest":1,"source":1}},{"Add":{"dest":0,"source":1}},"Hlt"]
